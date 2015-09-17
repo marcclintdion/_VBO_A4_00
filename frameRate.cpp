@@ -1,0 +1,1 @@
+Average frameRate = 0

@@ -1,0 +1,14 @@
+loadTexture("_MODEL_FOLDERS_/ROOM_BASE/farWallCenter/farWallCenter.jpg",    textureMap[1]);
+loadTexture("_MODEL_FOLDERS_/ROOM_BASE/farWallLeft/farWallLeft.jpg",        textureMap[2]);
+loadTexture("_MODEL_FOLDERS_/ROOM_BASE/farWallRight/farWallRight.jpg",      textureMap[3]);
+loadTexture("_MODEL_FOLDERS_/ROOM_BASE/floor/floor.jpg",                    textureMap[4]);
+loadTexture("_MODEL_FOLDERS_/ROOM_BASE/leftWallCenter/leftWallCenter.jpg",  textureMap[5]);
+loadTexture("_MODEL_FOLDERS_/ROOM_BASE/leftWallLeft/leftWallLeft.jpg",      textureMap[6]);
+loadTexture("_MODEL_FOLDERS_/ROOM_BASE/leftWallRight/leftWallRight.jpg",    textureMap[7]);
+loadTexture("_MODEL_FOLDERS_/ROOM_BASE/nearWallCenter/nearWallCenter.jpg",  textureMap[8]);
+loadTexture("_MODEL_FOLDERS_/ROOM_BASE/nearWallLeft/nearWallLeft.jpg",      textureMap[9]);
+loadTexture("_MODEL_FOLDERS_/ROOM_BASE/nearWallRight/nearWallRight.jpg",    textureMap[10]);
+loadTexture("_MODEL_FOLDERS_/ROOM_BASE/rightWallCenter/rightWallCenter.jpg",textureMap[11]);
+loadTexture("_MODEL_FOLDERS_/ROOM_BASE/rightWallLeft/rightWallLeft.jpg",    textureMap[12]);
+loadTexture("_MODEL_FOLDERS_/ROOM_BASE/rightWallRight/rightWallRight.jpg",  textureMap[13]);
+loadTexture("_MODEL_FOLDERS_/ROOM_BASE/leftWallDoor/leftWallDoor.jpg",      textureMap[15]);
